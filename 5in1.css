@@ -4,6 +4,7 @@
     padding: 0%;
     
  }
+
   .menuBarBackground{
     position: fixed;
     top:0%;
@@ -34,8 +35,9 @@
         position: fixed;
         color:black;
         z-index: 2022;
+        word-spacing: 10px;
     }
-    .page1{ 
+  .page1{ 
         position: fixed;
         color: black;
         text-decoration: none;
@@ -56,6 +58,7 @@
         color: black;
         right: 3.3in;
     }
+    
     
     
     
